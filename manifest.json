@@ -1,0 +1,15 @@
+{
+  "name": "المعلم - من طنجة للكويرة",
+  "short_name": "المعلم",
+  "start_url": "/m3allm/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1995/1995515.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
